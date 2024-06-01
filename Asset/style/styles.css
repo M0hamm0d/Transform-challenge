@@ -413,6 +413,9 @@ footer .points{
     .transform-logo img{
         width: 40px;
     }
+    .arrow-up{
+        left: 42%;
+    }
     .hr .transform-logo{
         left: 16.5%;
         bottom: -25px;
