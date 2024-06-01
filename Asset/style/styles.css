@@ -58,7 +58,7 @@
     width: 90%;
     margin: 20px auto;
     background-color: black;
-    padding: 0 10px;
+    padding: 3px 10px;
 }
 .transform-logo h1{
     color: white;
@@ -379,6 +379,7 @@ footer .points{
     }
     .mauris{
         opacity: .6;
+        padding: 5rem 0;
     }
     .header-navigation{
         display: none;
